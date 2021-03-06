@@ -23,6 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='pulltorefresh' title='Pull to Refresh' width='' alt='Pull to Refresh' />
+<img src='twitter.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+<h3> Implementing Pull to Refresh </h3>
+<img src='pulltorefresh' title='Pull to Refresh' width='250' alt='Pull to Refresh' />
 
